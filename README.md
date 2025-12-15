@@ -1,4 +1,4 @@
-# Whales from Space Dataset (Sample)
+# WSDataset (Sample)
 
 This repository contains **sample data** for whale detection from satellite imagery in YOLO format.
 
@@ -106,3 +106,4 @@ If you use this dataset, please cite the original paper:
 ## Disclaimer
 
 This repository contains personally curated sample data for learning and demonstration purposes only. For the complete dataset usage, please refer to the data availability statement in the original paper.
+
