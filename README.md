@@ -20,23 +20,14 @@ Original Dataset Information:
 ```
 WS/
 ├── images/
-│   ├── train/      # Training samples (23 images)
-│   ├── val/        # Validation samples (3 images)
-│   └── test/       # Test samples (6 images)
+│   ├── train/      # Training samples (14 images)
+│   ├── val/        # Validation samples (2 images)
+│   └── test/       # Test samples (4 images)
 └── labels/
-    ├── train/      # Training annotations (23 files)
-    ├── val/        # Validation annotations (3 files)
-    └── test/       # Test annotations (6 files)
+    ├── train/      # Training annotations (14 files)
+    ├── val/        # Validation annotations (2 files)
+    └── test/       # Test annotations (4 files)
 ```
-
-## Sample Data Statistics
-
-| Subset | Images | Annotation Files |
-|--------|--------|------------------|
-| Train samples | 23 | 23 |
-| Validation samples | 3 | 3 |
-| Test samples | 6 | 6 |
-| **Total** | **32** | **32** |
 
 ## File Format
 
@@ -118,5 +109,6 @@ author = {Siqi Wang and Baoxiang Huang and Milena Radenkovic and Ge Chen},
 ## Disclaimer
 
 This repository contains personally curated sample data for learning and demonstration purposes only. For the complete dataset usage, please refer to the data availability statement in the original paper.
+
 
 
