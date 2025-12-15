@@ -87,7 +87,7 @@ Please comply with the following requirements when using:
 
 ## Citation
 
-If you use this dataset, please cite the original paper:
+If you use this dataset, please cite both the original paper and this repository:
 
 ```bibtex
 @article{cubaynes2022whales,
@@ -102,8 +102,21 @@ If you use this dataset, please cite the original paper:
   doi={10.1038/s41597-022-01377-4}
 }
 ```
+```bibtex
+@article{WANG2025130778,
+title = {Whale Identification and Size Estimation in Satellite Imagery via Intelligent Subtle Perception},
+journal = {Expert Systems with Applications},
+pages = {130778},
+year = {2025},
+issn = {0957-4174},
+doi = {https://doi.org/10.1016/j.eswa.2025.130778},
+url = {https://www.sciencedirect.com/science/article/pii/S0957417425043933},
+author = {Siqi Wang and Baoxiang Huang and Milena Radenkovic and Ge Chen},
+}
+```
 
 ## Disclaimer
 
 This repository contains personally curated sample data for learning and demonstration purposes only. For the complete dataset usage, please refer to the data availability statement in the original paper.
+
 
